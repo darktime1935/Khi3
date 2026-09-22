@@ -212,4 +212,4 @@ Khi3 is provided as a full free version, with all features and updates included.
 Download Khi3 today and enhance your calculation experience with a complete scientific calculator at your fingertips!
 
 ---
-**Last updated:** 2026-09-21 23:56:43 UTC
+**Last updated:** 2026-09-22 04:38:36 UTC
